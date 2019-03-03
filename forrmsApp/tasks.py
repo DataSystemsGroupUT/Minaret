@@ -62,10 +62,10 @@ def my_task(authors, topicsq, citationsType, citationsRangeMin, citationsRangeMa
         current_task.update_state(state='PROGRESS', meta={'process_percent': int(counter)})
 
     if(len(completeAuthorsDataframe) > 0):
-        resultedFullDF = pd.concat(completeAuthorsDataframe, sort = True)
-        resultedFullDF.reset_index(drop=True, inplace=True)    
-    # used to remove duplicate reviwers when scraped from different topic pages....
-    revsDF.sort_values('Name', ascending=True, inplace=True)
+        revsDF = pd.concat(completeAuthorsDataframe, sort = True)
+        revsDF.reset_index(drop=True, inplace=True)    
+        # used to remove duplicate reviwers when scraped from different topic pages....
+        revsDF.sort_values('Name', ascending=True, inplace=True)
     indexToRemove = []
     for index in range(1, len(revsDF)):
         cntRev = revsDF.iloc[index]
