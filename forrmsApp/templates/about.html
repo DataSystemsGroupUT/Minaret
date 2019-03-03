@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+{% load static from staticfiles %}
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Reviewer Recommendation Tool">
+    <meta name="author" content="Data Systems Lab|University of Tartu">
+    <title>Minaret|Reviewer Recommendation Tool</title>
+    <link rel="icon" href="/minaret/{% static 'images/logo.ico' %}">
+    <!-- Bootstrap core CSS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="/minaret/{% static 'js/jquery-2.2.4.min.js' %}"></script>
+    <!-- Bootstrap core CSS -->
+    <link href="/minaret/{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+    <script type = "text/javascript" src = "/minaret/{% static 'js/tokenize2.min.js' %}"> </script>
+    <link rel="stylesheet" type="text/css" href="/minaret/{% static 'css/tokenize2.min.css' %}">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="/minaret/{% static 'css/portfolio-item.css' %}">
+    <link rel="stylesheet" type="text/css" href="/minaret/{% static 'fonts/font-awesome-4.7.0/css/font-awesome.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="/minaret/{% static 'fonts/Linearicons-Free-v1.0.0/icon-font.min.css' %}">
+ </head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="#"><img src="/minaret/{% static 'images/banner.png' %}" width = "1000px"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="..">Home
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">About</a>
+                    <span class="sr-only">(current)</span>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../contact/">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!-- Nav bar -->
+
+<!-- MAIN CONTENT -->
+<div id="wrap" class="content">
+    <div class="container" style="margin-top:70px;">
+        <div class="page-header" style="margin-bottom:30px">
+            <h2>About <i>MINARET</i>
+            </h2>
+        </div>
+
+        <div class="row">
+		<p>
+		<strong>MINARET</strong>, a recommendation framework for selecting scientifc reviewers. The framework facilitates the job of journal editors for conducting an efficient and effective scientifc review process by exploiting the valuable available information on the modern scholarly Websites (e.g., Google Scholar, ACM, DBLP, Publon) for identifying candidate reviewers who are relevant to the topic of the manuscript, flters them (e.g. excluding those with potential conflict of interest), and ranks them based on several metrics confgured by the editor (user). The framework extracts the required information of the recommendation process from the online resources on-the-fly which ensures the the output recommendations to be dynamic and based on up-to-date information</p>
+        </div>
+
+	<h3>Project Architecture:</h3>
+	<div class="row">
+		<img src="/minaret/{% static 'images/arch.jpg' %}" style="margin:0 auto;" width = "800">
+	</div>
+
+	<h3>Project Demonstration:</h3>
+	<div class="row">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/rNHTqdY6GuI" frameborder="0" style="margin:0 auto; margin-bottom:30px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+    </div>
+</div>
+<!-- MAIN CONTENT -->
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <center>
+            <div class="contact100-form-social flex-c-m">
+                <a href="#" class="contact100-form-social-item flex-c-m bg1 m-r-5">
+                    <i class="fa fa-facebook-f" aria-hidden="true"></i>
+                </a>
+
+                <a href="#" class="contact100-form-social-item flex-c-m bg2 m-r-5">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a>
+
+                <a href="#" class="contact100-form-social-item flex-c-m bg3">
+                    <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                </a>
+            </div>
+        </center>
+        <p class="m-0 text-center text-white">Copyright &copy; Data Systems Lab - University of Tartu</p>
+    </div>
+    <!-- /.container -->
+</footer>
+<!-- Footer -->
+<script type="text/javascript" src="/minaret/{% static 'js/jquery.min.js' %}"></script>
+<script type="text/javascript" src="/minaret/{% static 'js/bootstrap.min.js' %}"></script>
+<script type="text/javascript" src="/minaret/{% static 'js/boot-business.js' %}"></script>
+</body>
+</html>

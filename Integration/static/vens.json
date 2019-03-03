@@ -1,0 +1,3542 @@
+[
+  {
+    "name": "International Journal of Molecular Sciences",
+    "code": 5755
+  },
+  {
+    "name": "Energies",
+    "code": 506
+  },
+  {
+    "name": "Bioinformatics",
+    "code": 197
+  },
+  {
+    "name": "IEEE Transactions on Industrial Electronics",
+    "code": 852
+  },
+  {
+    "name": "IET Control Theory &amp; Applications",
+    "code": 23117
+  },
+  {
+    "name": "IEEE Access",
+    "code": 28130
+  },
+  {
+    "name": "IET Image Processing",
+    "code": 8142
+  },
+  {
+    "name": "International Journal of Communication Systems",
+    "code": 7000
+  },
+  {
+    "name": "Applied Soft Computing",
+    "code": 336
+  },
+  {
+    "name": "Multimedia Tools and Applications",
+    "code": 271
+  },
+  {
+    "name": "IET Communications",
+    "code": 6193
+  },
+  {
+    "name": "Symmetry",
+    "code": 8782
+  },
+  {
+    "name": "Smart Materials and Structures",
+    "code": 4173
+  },
+  {
+    "name": "Frontiers in Psychology",
+    "code": 3166
+  },
+  {
+    "name": "COMPEL - The International Journal for Computation and Mathematics in Electrical and Electronic Engineering",
+    "code": 11791
+  },
+  {
+    "name": "Information Sciences",
+    "code": 973
+  },
+  {
+    "name": "IET Signal Processing",
+    "code": 7935
+  },
+  {
+    "name": "PLOS Computational Biology",
+    "code": 155
+  },
+  {
+    "name": "IEEE Transactions on Smart Grid",
+    "code": 945
+  },
+  {
+    "name": "Neural Computing and Applications",
+    "code": 9598
+  },
+  {
+    "name": "The International Journal of Advanced Manufacturing Technology",
+    "code": 3538
+  },
+  {
+    "name": "International Journal of Circuit Theory and Applications",
+    "code": 7867
+  },
+  {
+    "name": "IEEE Communications Letters",
+    "code": 2352
+  },
+  {
+    "name": "IEEE Transactions on Industrial Informatics",
+    "code": 2735
+  },
+  {
+    "name": "Soft Computing",
+    "code": 3135
+  },
+  {
+    "name": "BMC Bioinformatics",
+    "code": 228
+  },
+  {
+    "name": "International Journal of Distributed Sensor Networks",
+    "code": 12458
+  },
+  {
+    "name": "Computers in Biology and Medicine",
+    "code": 8246
+  },
+  {
+    "name": "International Journal of Advanced Robotic Systems",
+    "code": 9924
+  },
+  {
+    "name": "Computers in Human Behavior",
+    "code": 2070
+  },
+  {
+    "name": "IET Computer Vision",
+    "code": 9210
+  },
+  {
+    "name": "IEEE Transactions on Vehicular Technology",
+    "code": 1236
+  },
+  {
+    "name": "Neurocomputing",
+    "code": 16
+  },
+  {
+    "name": "International Journal of Adaptive Control and Signal Processing",
+    "code": 3333
+  },
+  {
+    "name": "Expert Systems with Applications",
+    "code": 2381
+  },
+  {
+    "name": "The International Journal of Medical Robotics and Computer Assisted Surgery",
+    "code": 27337
+  },
+  {
+    "name": "Pattern Recognition",
+    "code": 335
+  },
+  {
+    "name": "Future Generation Computer Systems",
+    "code": 1759
+  },
+  {
+    "name": "Journal of Software: Evolution and Process",
+    "code": 20523
+  },
+  {
+    "name": "Computer Applications in Engineering Education",
+    "code": 9630
+  },
+  {
+    "name": "Computers &amp; Electrical Engineering",
+    "code": 22963
+  },
+  {
+    "name": "International Journal of Numerical Methods for Heat &amp; Fluid Flow",
+    "code": 25122
+  },
+  {
+    "name": "International Journal of Geographical Information Science",
+    "code": 3940
+  },
+  {
+    "name": "Journal of Computer Assisted Learning",
+    "code": 1232
+  },
+  {
+    "name": "International Journal of Numerical Modelling: Electronic Networks Devices and Fields",
+    "code": 10834
+  },
+  {
+    "name": "Knowledge-Based Systems",
+    "code": 1176
+  },
+  {
+    "name": "IEEE Transactions on Image Processing",
+    "code": 1001
+  },
+  {
+    "name": "Journal of Real-Time Image Processing",
+    "code": 8464
+  },
+  {
+    "name": "International Journal of RF and Microwave Computer-Aided Engineering",
+    "code": 8338
+  },
+  {
+    "name": "Expert Systems",
+    "code": 8543
+  },
+  {
+    "name": "IEEE Transactions on Medical Imaging",
+    "code": 1806
+  },
+  {
+    "name": "Computer Methods and Programs in Biomedicine",
+    "code": 7696
+  },
+  {
+    "name": "IEEE International Conference on Communications (ICC)",
+    "code": 29129
+  },
+  {
+    "name": "ISA Transactions",
+    "code": 4096
+  },
+  {
+    "name": "GigaScience",
+    "code": 530
+  },
+  {
+    "name": "IEEE Transactions on Cybernetics",
+    "code": 25560
+  },
+  {
+    "name": "Computers &amp; Education",
+    "code": 21199
+  },
+  {
+    "name": "Algorithms",
+    "code": 9652
+  },
+  {
+    "name": "Computers &amp; Industrial Engineering",
+    "code": 25136
+  },
+  {
+    "name": "IEEE/ASME Transactions on Mechatronics",
+    "code": 1398
+  },
+  {
+    "name": "The Electronic Library",
+    "code": 4299
+  },
+  {
+    "name": "IET Software",
+    "code": 6836
+  },
+  {
+    "name": "Systems Engineering",
+    "code": 264
+  },
+  {
+    "name": "International Journal for Numerical Methods in Biomedical Engineering",
+    "code": 4843
+  },
+  {
+    "name": "Journal of Chemical Theory and Computation",
+    "code": 456
+  },
+  {
+    "name": "Mechanical Systems and Signal Processing",
+    "code": 2040
+  },
+  {
+    "name": "Engineering Applications of Artificial Intelligence",
+    "code": 2426
+  },
+  {
+    "name": "Biomedical Signal Processing and Control",
+    "code": 9499
+  },
+  {
+    "name": "International Conference of the IEEE Engineering in Medicine and Biology Society",
+    "code": 51225
+  },
+  {
+    "name": "Swarm and Evolutionary Computation",
+    "code": 871
+  },
+  {
+    "name": "IEEE International Conference on Intelligent Robots and Systems",
+    "code": 8502
+  },
+  {
+    "name": "Computers and Electronics in Agriculture",
+    "code": 3959
+  },
+  {
+    "name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "code": 1570
+  },
+  {
+    "name": "Wireless Networks",
+    "code": 4293
+  },
+  {
+    "name": "IEEE International Conference on Robotics and Automation",
+    "code": 4566
+  },
+  {
+    "name": "Journal of Systems and Software",
+    "code": 329
+  },
+  {
+    "name": "IEEE Transactions on Signal Processing",
+    "code": 813
+  },
+  {
+    "name": "IET Biometrics",
+    "code": 20425
+  },
+  {
+    "name": "Wireless Personal Communications",
+    "code": 8815
+  },
+  {
+    "name": "IEEE Global Communications Conference",
+    "code": 26077
+  },
+  {
+    "name": "IEEE Transactions on Wireless Communications",
+    "code": 827
+  },
+  {
+    "name": "IET Information Security",
+    "code": 6195
+  },
+  {
+    "name": "Software: Practice and Experience",
+    "code": 331
+  },
+  {
+    "name": "Circuits Systems and Signal Processing",
+    "code": 6842
+  },
+  {
+    "name": "IEEE Transactions on Automatic Control",
+    "code": 682
+  },
+  {
+    "name": "Computational Materials Science",
+    "code": 3716
+  },
+  {
+    "name": "Journal of Network and Computer Applications",
+    "code": 4222
+  },
+  {
+    "name": "Chemometrics and Intelligent Laboratory Systems",
+    "code": 4848
+  },
+  {
+    "name": "Journal of Materials Processing Technology",
+    "code": 1803
+  },
+  {
+    "name": "IEEE Signal Processing Letters",
+    "code": 431
+  },
+  {
+    "name": "Journal of Intelligent &amp; Fuzzy Systems",
+    "code": 8160
+  },
+  {
+    "name": "Computer Networks",
+    "code": 2688
+  },
+  {
+    "name": "Engineering Computations",
+    "code": 8243
+  },
+  {
+    "name": "Digital Signal Processing",
+    "code": 2906
+  },
+  {
+    "name": "IEEE Internet of Things Journal",
+    "code": 28937
+  },
+  {
+    "name": "Scientometrics",
+    "code": 2182
+  },
+  {
+    "name": "IEEE Transactions on Fuzzy Systems",
+    "code": 764
+  },
+  {
+    "name": "Journal of Molecular Modeling",
+    "code": 7384
+  },
+  {
+    "name": "Pattern Recognition Letters",
+    "code": 3016
+  },
+  {
+    "name": "Computer Methods in Applied Mechanics and Engineering",
+    "code": 1198
+  },
+  {
+    "name": "IEEE Communications Magazine",
+    "code": 708
+  },
+  {
+    "name": "Journal of Chemical Information and Modeling",
+    "code": 2586
+  },
+  {
+    "name": "Briefings in Bioinformatics",
+    "code": 1107
+  },
+  {
+    "name": "IEEE Transactions on Neural Networks and Learning Systems",
+    "code": 22603
+  },
+  {
+    "name": "Journal of the Franklin Institute",
+    "code": 3512
+  },
+  {
+    "name": "SIMULATION",
+    "code": 47439
+  },
+  {
+    "name": "IEEE Transactions on Multimedia",
+    "code": 1783
+  },
+  {
+    "name": "Control Engineering Practice",
+    "code": 2058
+  },
+  {
+    "name": "International Arab Journal of Information Technology",
+    "code": 10619
+  },
+  {
+    "name": "Medical &amp; Biological Engineering &amp; Computing",
+    "code": 23855
+  },
+  {
+    "name": "IEEE Transactions on Intelligent Transportation Systems",
+    "code": 1368
+  },
+  {
+    "name": "Computers &amp; Fluids",
+    "code": 23293
+  },
+  {
+    "name": "Journal of Biomedical Informatics",
+    "code": 3555
+  },
+  {
+    "name": "IEEE Transactions on Evolutionary Computation",
+    "code": 731
+  },
+  {
+    "name": "Quantum Information Processing",
+    "code": 4065
+  },
+  {
+    "name": "Cyberpsychology Behavior and Social Networking",
+    "code": 2326
+  },
+  {
+    "name": "Computers &amp; Operations Research",
+    "code": 22605
+  },
+  {
+    "name": "European Signal Processing Conference",
+    "code": 29644
+  },
+  {
+    "name": "Computers &amp; Mathematics with Applications",
+    "code": 23832
+  },
+  {
+    "name": "Journal of Circuits Systems and Computers",
+    "code": 12253
+  },
+  {
+    "name": "Database",
+    "code": 2248
+  },
+  {
+    "name": "Journal of Global Optimization",
+    "code": 153
+  },
+  {
+    "name": "Journal of Electronic Imaging",
+    "code": 7138
+  },
+  {
+    "name": "Signal Processing",
+    "code": 429
+  },
+  {
+    "name": "ETRI Journal",
+    "code": 7549
+  },
+  {
+    "name": "Optical Materials",
+    "code": 5053
+  },
+  {
+    "name": "Journal of the Association for Information Science and Technology",
+    "code": 25978
+  },
+  {
+    "name": "Applied Intelligence",
+    "code": 3474
+  },
+  {
+    "name": "Cogent Engineering",
+    "code": 553
+  },
+  {
+    "name": "Journal of Process Control",
+    "code": 1637
+  },
+  {
+    "name": "IEEE Journal of Biomedical and Health Informatics",
+    "code": 21323
+  },
+  {
+    "name": "Mechanism and Machine Theory",
+    "code": 3082
+  },
+  {
+    "name": "KSII Transactions on Internet and Information Systems",
+    "code": 9705
+  },
+  {
+    "name": "Journal of Parallel and Distributed Computing",
+    "code": 5850
+  },
+  {
+    "name": "Optimal Control Applications and Methods",
+    "code": 4314
+  },
+  {
+    "name": "IEEE International Conference on Image Processing",
+    "code": 44335
+  },
+  {
+    "name": "IEEE Congress on Evolutionary Computation",
+    "code": 28261
+  },
+  {
+    "name": "IET Networks",
+    "code": 28885
+  },
+  {
+    "name": "Computers &amp; Geosciences",
+    "code": 23707
+  },
+  {
+    "name": "Cluster Computing",
+    "code": 7923
+  },
+  {
+    "name": "The Journal of Supercomputing",
+    "code": 337
+  },
+  {
+    "name": "Computational Statistics &amp; Data Analysis",
+    "code": 21263
+  },
+  {
+    "name": "Information and Software Technology",
+    "code": 1464
+  },
+  {
+    "name": "Knowledge and Information Systems",
+    "code": 1493
+  },
+  {
+    "name": "Information",
+    "code": 28849
+  },
+  {
+    "name": "Cognitive Science",
+    "code": 23718
+  },
+  {
+    "name": "IEEE Transactions on Nanotechnology",
+    "code": 4315
+  },
+  {
+    "name": "IEEE International Conference on Acoustics Speech and Signal Processing",
+    "code": 62896
+  },
+  {
+    "name": "IEEE Transactions on Information Forensics and Security",
+    "code": 340
+  },
+  {
+    "name": "IEEE Transactions on Parallel and Distributed Systems",
+    "code": 341
+  },
+  {
+    "name": "Modelling and Simulation in Materials Science and Engineering",
+    "code": 3100
+  },
+  {
+    "name": "Signal Image and Video Processing",
+    "code": 9678
+  },
+  {
+    "name": "International Journal of Systems Science",
+    "code": 3408
+  },
+  {
+    "name": "Computers &amp; Structures",
+    "code": 259
+  },
+  {
+    "name": "Journal of the Optical Society of America A",
+    "code": 121
+  },
+  {
+    "name": "Transportation Research Part C: Emerging Technologies",
+    "code": 1909
+  },
+  {
+    "name": "Journal of Artificial Societies and Social Simulation",
+    "code": 8913
+  },
+  {
+    "name": "Structural and Multidisciplinary Optimization",
+    "code": 2621
+  },
+  {
+    "name": "Information Systems Journal",
+    "code": 1942
+  },
+  {
+    "name": "IEEE Transactions on Systems Man and Cybernetics: Systems",
+    "code": 35298
+  },
+  {
+    "name": "International Journal of Computer Mathematics",
+    "code": 8488
+  },
+  {
+    "name": "Computers &amp; Chemical Engineering",
+    "code": 21261
+  },
+  {
+    "name": "Journal of Molecular Graphics and Modelling",
+    "code": 5943
+  },
+  {
+    "name": "Journal of Field Robotics",
+    "code": 912
+  },
+  {
+    "name": "Engineering Applications of Computational Fluid Mechanics",
+    "code": 25198
+  },
+  {
+    "name": "Journal of Computational Physics",
+    "code": 132
+  },
+  {
+    "name": "International Mechanical Engineering Congress and Exposition",
+    "code": 28861
+  },
+  {
+    "name": "IEEE Transactions on Software Engineering",
+    "code": 866
+  },
+  {
+    "name": "IEEE Transactions on Audio Speech and Language Processing",
+    "code": 1889
+  },
+  {
+    "name": "IETE Journal of Research",
+    "code": 14205
+  },
+  {
+    "name": "Journal of Computational Science",
+    "code": 6037
+  },
+  {
+    "name": "Journal of Intelligent &amp; Robotic Systems",
+    "code": 3490
+  },
+  {
+    "name": "Journal of Memory and Language",
+    "code": 1249
+  },
+  {
+    "name": "Empirical Software Engineering",
+    "code": 1227
+  },
+  {
+    "name": "Computer Communications",
+    "code": 4380
+  },
+  {
+    "name": "Computers &amp; Security",
+    "code": 342
+  },
+  {
+    "name": "Ad Hoc Networks",
+    "code": 1344
+  },
+  {
+    "name": "Turkish Journal of Electrical Engineering &amp; Computer Sciences",
+    "code": 10095
+  },
+  {
+    "name": "IEEE Robotics and Automation Letters",
+    "code": 32110
+  },
+  {
+    "name": "Robotics and Autonomous Systems",
+    "code": 2060
+  },
+  {
+    "name": "IEEE Transactions on Cloud Computing",
+    "code": 27687
+  },
+  {
+    "name": "International Journal of Information Technology &amp; Decision Making",
+    "code": 2029
+  },
+  {
+    "name": "Microprocessors and Microsystems",
+    "code": 10582
+  },
+  {
+    "name": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+    "code": 338
+  },
+  {
+    "name": "International Journal for Numerical Methods in Fluids",
+    "code": 4605
+  },
+  {
+    "name": "Eurasip Journal on Wireless Communications and Networking",
+    "code": 8812
+  },
+  {
+    "name": "IET Computers and Digital Techniques",
+    "code": 11122
+  },
+  {
+    "name": "Computational Intelligence",
+    "code": 4822
+  },
+  {
+    "name": "Journal of King Saud University - Computer and Information Sciences",
+    "code": 25026
+  },
+  {
+    "name": "Behaviour &amp; Information Technology",
+    "code": 6221
+  },
+  {
+    "name": "IEEE Transactions on Mobile Computing",
+    "code": 886
+  },
+  {
+    "name": "Journal of Informetrics",
+    "code": 933
+  },
+  {
+    "name": "Artificial Intelligence in Medicine",
+    "code": 5499
+  },
+  {
+    "name": "Computer Graphics Forum",
+    "code": 81
+  },
+  {
+    "name": "Concurrent Engineering",
+    "code": 32755
+  },
+  {
+    "name": "IEEE Transactions on Knowledge and Data Engineering",
+    "code": 1057
+  },
+  {
+    "name": "Transactions on Services Computing",
+    "code": 330
+  },
+  {
+    "name": "Machine Vision and Applications",
+    "code": 5675
+  },
+  {
+    "name": "Future Internet",
+    "code": 22903
+  },
+  {
+    "name": "Journal of Building Performance Simulation",
+    "code": 3154
+  },
+  {
+    "name": "IEEE Transactions on Computers",
+    "code": 2558
+  },
+  {
+    "name": "International Journal of Control",
+    "code": 1555
+  },
+  {
+    "name": "Computers &amp; Graphics",
+    "code": 22684
+  },
+  {
+    "name": "ASME International Design Engineering Technical Conferences &amp; Computers and Information in Engineering Conference",
+    "code": 28916
+  },
+  {
+    "name": "Telematics and Informatics",
+    "code": 6100
+  },
+  {
+    "name": "European Conference On Antennas And Propagation",
+    "code": 29514
+  },
+  {
+    "name": "Iberian Conference on Information Systems and Technologies",
+    "code": 47992
+  },
+  {
+    "name": "Genetic and Evolutionary Computation Conference",
+    "code": 21869
+  },
+  {
+    "name": "Engineering Optimization",
+    "code": 5180
+  },
+  {
+    "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "code": 609
+  },
+  {
+    "name": "Computers and Geotechnics",
+    "code": 1495
+  },
+  {
+    "name": "International Journal of Digital Earth",
+    "code": 7074
+  },
+  {
+    "name": "IEEE Transactions on Information Theory",
+    "code": 763
+  },
+  {
+    "name": "Flow Measurement and Instrumentation",
+    "code": 7561
+  },
+  {
+    "name": "International Journal of Machine Learning and Cybernetics",
+    "code": 24310
+  },
+  {
+    "name": "Journal of Ambient Intelligence and Humanized Computing",
+    "code": 6136
+  },
+  {
+    "name": "Neural Networks",
+    "code": 4037
+  },
+  {
+    "name": "International Journal of Imaging Systems and Technology",
+    "code": 8762
+  },
+  {
+    "name": "Computer Vision and Image Understanding",
+    "code": 1826
+  },
+  {
+    "name": "Mechatronics",
+    "code": 4015
+  },
+  {
+    "name": "Information Processing &amp; Management",
+    "code": 25466
+  },
+  {
+    "name": "Computer-Aided Design",
+    "code": 125
+  },
+  {
+    "name": "Journal of Information Science",
+    "code": 2844
+  },
+  {
+    "name": "Pattern Analysis and Applications",
+    "code": 4288
+  },
+  {
+    "name": "Journal of Intelligent Manufacturing",
+    "code": 4069
+  },
+  {
+    "name": "Journal of Grid Computing",
+    "code": 4675
+  },
+  {
+    "name": "Signal Processing: Image Communication",
+    "code": 2550
+  },
+  {
+    "name": "International Journal of Computing Science and Mathematics",
+    "code": 13684
+  },
+  {
+    "name": "International Joint Conference on Neural Networks (IJCNN)",
+    "code": 29334
+  },
+  {
+    "name": "Applied Clinical Informatics",
+    "code": 24083
+  },
+  {
+    "name": "Scientific Data",
+    "code": 21665
+  },
+  {
+    "name": "Medical Image Analysis",
+    "code": 1829
+  },
+  {
+    "name": "IEEE Transactions on Human-Machine Systems",
+    "code": 23312
+  },
+  {
+    "name": "Journal of Medical Systems",
+    "code": 8546
+  },
+  {
+    "name": "Journal of Dynamic Systems Measurement and Control",
+    "code": 5492
+  },
+  {
+    "name": "Perception",
+    "code": 5677
+  },
+  {
+    "name": "IEEE Transactions on Robotics",
+    "code": 885
+  },
+  {
+    "name": "IEEE Wireless Communications and Networking Conference (WCNC)",
+    "code": 26640
+  },
+  {
+    "name": "IEEE International Conference on Intelligent Transportation Systems",
+    "code": 11559
+  },
+  {
+    "name": "Simulation Modelling Practice and Theory",
+    "code": 5234
+  },
+  {
+    "name": "Computer Physics Communications",
+    "code": 1536
+  },
+  {
+    "name": "Analog Integrated Circuits and Signal Processing",
+    "code": 9396
+  },
+  {
+    "name": "Robotica",
+    "code": 4287
+  },
+  {
+    "name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "code": 2893
+  },
+  {
+    "name": "Evolutionary Bioinformatics",
+    "code": 8534
+  },
+  {
+    "name": "Journal of Visual Communication and Image Representation",
+    "code": 4167
+  },
+  {
+    "name": "Cognitive Computation",
+    "code": 7597
+  },
+  {
+    "name": "International Journal of Robotics Research",
+    "code": 750
+  },
+  {
+    "name": "International Journal of Fuzzy Systems",
+    "code": 55179
+  },
+  {
+    "name": "IEEE International Conference on Fuzzy Systems",
+    "code": 11962
+  },
+  {
+    "name": "Artificial Intelligence Review",
+    "code": 3294
+  },
+  {
+    "name": "IEEE International Conference on Industrial Technology",
+    "code": 10149
+  },
+  {
+    "name": "IEEE Transactions on Haptics",
+    "code": 4358
+  },
+  {
+    "name": "Advances in Engineering Software",
+    "code": 4021
+  },
+  {
+    "name": "Computer Methods in Biomechanics and Biomedical Engineering",
+    "code": 9092
+  },
+  {
+    "name": "Mathematics and Computers in Simulation",
+    "code": 6575
+  },
+  {
+    "name": "International Journal of Network Management",
+    "code": 8988
+  },
+  {
+    "name": "IEEE Software",
+    "code": 2677
+  },
+  {
+    "name": "Microsystem Technologies",
+    "code": 8471
+  },
+  {
+    "name": "Ocean Modelling",
+    "code": 1780
+  },
+  {
+    "name": "Pervasive and Mobile Computing",
+    "code": 2633
+  },
+  {
+    "name": "Journal of Experimental and Theoretical Artificial Intelligence",
+    "code": 13933
+  },
+  {
+    "name": "The Computer Journal",
+    "code": 6054
+  },
+  {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "code": 1524
+  },
+  {
+    "name": "Production Planning and Control",
+    "code": 5529
+  },
+  {
+    "name": "Systems and Control Letters",
+    "code": 1084
+  },
+  {
+    "name": "IEEE/ACM Transactions on Networking",
+    "code": 915
+  },
+  {
+    "name": "Security and Communication Networks",
+    "code": 11902
+  },
+  {
+    "name": "International Conference on Machine Learning",
+    "code": 30227
+  },
+  {
+    "name": "Computer Standards &amp; Interfaces",
+    "code": 3264
+  },
+  {
+    "name": "Computational Mechanics",
+    "code": 2274
+  },
+  {
+    "name": "Software Testing Verification &amp; Reliability",
+    "code": 27232
+  },
+  {
+    "name": "Statistical Analysis and Data Mining",
+    "code": 7311
+  },
+  {
+    "name": "Bulletin of Mathematical Biology",
+    "code": 4329
+  },
+  {
+    "name": "IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)",
+    "code": 30361
+  },
+  {
+    "name": "AAAI Conference on Artificial Intelligence",
+    "code": 32509
+  },
+  {
+    "name": "International Journal of Human-Computer Studies",
+    "code": 2540
+  },
+  {
+    "name": "IEEE Consumer Communications and Networking Conference",
+    "code": 28113
+  },
+  {
+    "name": "Computer-Aided Civil and Infrastructure Engineering",
+    "code": 5138
+  },
+  {
+    "name": "Computational and Structural Biotechnology Journal",
+    "code": 20901
+  },
+  {
+    "name": "Computerized Medical Imaging and Graphics",
+    "code": 6293
+  },
+  {
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "code": 759
+  },
+  {
+    "name": "International Geoscience and Remote Sensing Symposium (IGARSS)",
+    "code": 12016
+  },
+  {
+    "name": "Wireless Communications and Mobile Computing",
+    "code": 5074
+  },
+  {
+    "name": "Inverse Problems in Science and Engineering",
+    "code": 8650
+  },
+  {
+    "name": "IEEE Transactions on Learning Technologies",
+    "code": 262
+  },
+  {
+    "name": "Online Information Review",
+    "code": 6462
+  },
+  {
+    "name": "Information Fusion",
+    "code": 1452
+  },
+  {
+    "name": "Industrial Management and Data Systems",
+    "code": 3710
+  },
+  {
+    "name": "Iranian Journal of Science and Technology - Transactions of Electrical Engineering",
+    "code": 20478
+  },
+  {
+    "name": "Fuzzy Sets and Systems",
+    "code": 1424
+  },
+  {
+    "name": "Computational Intelligence and Neuroscience",
+    "code": 2617
+  },
+  {
+    "name": "Kybernetes",
+    "code": 10735
+  },
+  {
+    "name": "Journal of Theoretical and Applied Electronic Commerce Research",
+    "code": 10106
+  },
+  {
+    "name": "ACM Computing Surveys",
+    "code": 639
+  },
+  {
+    "name": "International Journal of Architectural Computing",
+    "code": 14101
+  },
+  {
+    "name": "International Wireless Communications and Mobile Computing Conference",
+    "code": 29687
+  },
+  {
+    "name": "International Conference on Information Systems",
+    "code": 30937
+  },
+  {
+    "name": "International Journal of Advanced Intelligence Paradigms",
+    "code": 14334
+  },
+  {
+    "name": "Robotics and Computer-Integrated Manufacturing",
+    "code": 2410
+  },
+  {
+    "name": "Journal of Information Security and Applications",
+    "code": 29152
+  },
+  {
+    "name": "Theoretical Computer Science",
+    "code": 2418
+  },
+  {
+    "name": "Neural Processing Letters",
+    "code": 6669
+  },
+  {
+    "name": "International Journal of Control Automation and Systems",
+    "code": 6133
+  },
+  {
+    "name": "Enterprise Information Systems",
+    "code": 2698
+  },
+  {
+    "name": "Journal of Advanced Transportation",
+    "code": 7413
+  },
+  {
+    "name": "Data Mining and Knowledge Discovery",
+    "code": 1271
+  },
+  {
+    "name": "Molecular Simulation",
+    "code": 8283
+  },
+  {
+    "name": "Molecular Diversity",
+    "code": 5113
+  },
+  {
+    "name": "Computers in Industry",
+    "code": 2411
+  },
+  {
+    "name": "Journal of Educational Computing Research",
+    "code": 6843
+  },
+  {
+    "name": "Eurasip Journal on Advances in Signal Processing",
+    "code": 9206
+  },
+  {
+    "name": "IEEE Transactions on Network and Service Management",
+    "code": 3552
+  },
+  {
+    "name": "Eurasip Journal on Image and Video Processing",
+    "code": 11243
+  },
+  {
+    "name": "Journal of Hospitality and Tourism Technology",
+    "code": 12080
+  },
+  {
+    "name": "Molecular Systems Biology",
+    "code": 248
+  },
+  {
+    "name": "Science of Computer Programming",
+    "code": 2792
+  },
+  {
+    "name": "Journal of Mathematical Imaging and Vision",
+    "code": 1817
+  },
+  {
+    "name": "Software Quality Journal",
+    "code": 4580
+  },
+  {
+    "name": "Information Visualization",
+    "code": 6309
+  },
+  {
+    "name": "Decision Support Systems",
+    "code": 1515
+  },
+  {
+    "name": "Information Technology &amp; Tourism",
+    "code": 28173
+  },
+  {
+    "name": "Journal of Control Automation and Electrical Systems",
+    "code": 27424
+  },
+  {
+    "name": "Journal of Cheminformatics",
+    "code": 482
+  },
+  {
+    "name": "International Journal of Robotics and Automation",
+    "code": 10983
+  },
+  {
+    "name": "International Journal of Approximate Reasoning",
+    "code": 1208
+  },
+  {
+    "name": "Swarm Intelligence",
+    "code": 1751
+  },
+  {
+    "name": "Journal of Optical Communications and Networking",
+    "code": 3198
+  },
+  {
+    "name": "International Transactions in Operational Research",
+    "code": 7972
+  },
+  {
+    "name": "Journal of Intelligent Systems",
+    "code": 12345
+  },
+  {
+    "name": "Ecological Informatics",
+    "code": 5400
+  },
+  {
+    "name": "International Journal of Educational Technology in Higher Education",
+    "code": 40750
+  },
+  {
+    "name": "IEEE Transactions on Affective Computing",
+    "code": 1458
+  },
+  {
+    "name": "Radio Science",
+    "code": 7119
+  },
+  {
+    "name": "The Visual Computer",
+    "code": 282
+  },
+  {
+    "name": "Journal of Systems Architecture",
+    "code": 6827
+  },
+  {
+    "name": "International Journal of Computational Methods",
+    "code": 8704
+  },
+  {
+    "name": "Finite Elements in Analysis and Design",
+    "code": 4060
+  },
+  {
+    "name": "Machine Learning",
+    "code": 1041
+  },
+  {
+    "name": "Journal of Proteomics &amp; Bioinformatics",
+    "code": 21880
+  },
+  {
+    "name": "Cognitive Processing",
+    "code": 8317
+  },
+  {
+    "name": "Designs Codes and Cryptography",
+    "code": 3764
+  },
+  {
+    "name": "Information Technology and People",
+    "code": 6701
+  },
+  {
+    "name": "IEEE Conference on Computer Vision and Pattern Recognition",
+    "code": 34213
+  },
+  {
+    "name": "Statistics and Computing",
+    "code": 1611
+  },
+  {
+    "name": "Defence Science Journal",
+    "code": 12557
+  },
+  {
+    "name": "Language Learning and Technology",
+    "code": 3662
+  },
+  {
+    "name": "Journal of Analytical Methods in Chemistry",
+    "code": 16408
+  },
+  {
+    "name": "Advanced Engineering Informatics",
+    "code": 4386
+  },
+  {
+    "name": "International Joint Conference on Artificial Intelligence",
+    "code": 29690
+  },
+  {
+    "name": "Journal of Computing in Civil Engineering",
+    "code": 4734
+  },
+  {
+    "name": "Information &amp; Management",
+    "code": 1584
+  },
+  {
+    "name": "Journal of Pragmatics",
+    "code": 6005
+  },
+  {
+    "name": "International Journal of Computer Vision",
+    "code": 656
+  },
+  {
+    "name": "Journal of Scheduling",
+    "code": 1552
+  },
+  {
+    "name": "International Journal of Information Management",
+    "code": 2365
+  },
+  {
+    "name": "International Journal of Uncertainty Fuzziness and Knowledge-Based Systems",
+    "code": 3679
+  },
+  {
+    "name": "Mobile Information Systems",
+    "code": 32884
+  },
+  {
+    "name": "Journal of Information Technology &amp; Politics",
+    "code": 3830
+  },
+  {
+    "name": "EPJ Data Science",
+    "code": 24437
+  },
+  {
+    "name": "IEEE Consumer Electronics Magazine",
+    "code": 26654
+  },
+  {
+    "name": "IEEE Conference on Local Computer Networks",
+    "code": 31898
+  },
+  {
+    "name": "Photonics and Nanostructures - Fundamentals and Applications",
+    "code": 4498
+  },
+  {
+    "name": "Memetic Computing",
+    "code": 1974
+  },
+  {
+    "name": "MIS Quarterly",
+    "code": 671
+  },
+  {
+    "name": "IEEE International Conference on Automation Science and Engineering",
+    "code": 32886
+  },
+  {
+    "name": "Operational Research",
+    "code": 11417
+  },
+  {
+    "name": "Journal of Biomedical Semantics",
+    "code": 20791
+  },
+  {
+    "name": "ACM Transactions on Graphics",
+    "code": 103
+  },
+  {
+    "name": "Molecular Informatics",
+    "code": 7851
+  },
+  {
+    "name": "Journal of Signal Processing Systems",
+    "code": 8767
+  },
+  {
+    "name": "Engineering with Computers",
+    "code": 7460
+  },
+  {
+    "name": "Software and Systems Modeling",
+    "code": 1630
+  },
+  {
+    "name": "Speech Communication",
+    "code": 2900
+  },
+  {
+    "name": "Mobile Networks and Applications",
+    "code": 3106
+  },
+  {
+    "name": "IEEE Region 10 Annual International Conference Proceedings/TENCON",
+    "code": 17120
+  },
+  {
+    "name": "IEEE Student Conference on Research and Development",
+    "code": 28270
+  },
+  {
+    "name": "International Journal of High Performance Computing Applications",
+    "code": 6283
+  },
+  {
+    "name": "SIAM Journal on Optimization",
+    "code": 986
+  },
+  {
+    "name": "European Journal of Information Systems",
+    "code": 2160
+  },
+  {
+    "name": "IEEE International Conference on Industrial Informatics",
+    "code": 30514
+  },
+  {
+    "name": "Journal of Computing in Higher Education",
+    "code": 4870
+  },
+  {
+    "name": "Information Processing Letters",
+    "code": 4398
+  },
+  {
+    "name": "Mediterranean Conference on Control &amp; Automation",
+    "code": 34103
+  },
+  {
+    "name": "Journal of Computer-Mediated Communication",
+    "code": 1348
+  },
+  {
+    "name": "I-Perception",
+    "code": 22046
+  },
+  {
+    "name": "Parallel Computing",
+    "code": 5090
+  },
+  {
+    "name": "Journal of Theoretical and Computational Chemistry",
+    "code": 10741
+  },
+  {
+    "name": "Cognitive Psychology",
+    "code": 830
+  },
+  {
+    "name": "Journal of Operations Management",
+    "code": 704
+  },
+  {
+    "name": "Transactions on Embedded Computing Systems",
+    "code": 8787
+  },
+  {
+    "name": "International Journal of Software Engineering and Knowledge Engineering",
+    "code": 10441
+  },
+  {
+    "name": "Cognitive Systems Research",
+    "code": 4828
+  },
+  {
+    "name": "BioData Mining",
+    "code": 4130
+  },
+  {
+    "name": "Frontiers in Neuroinformatics",
+    "code": 296
+  },
+  {
+    "name": "Informatica",
+    "code": 6984
+  },
+  {
+    "name": "Multidimensional Systems and Signal Processing",
+    "code": 5700
+  },
+  {
+    "name": "Interactive Learning Environments",
+    "code": 2313
+  },
+  {
+    "name": "Peer-to-Peer Networking and Applications",
+    "code": 7534
+  },
+  {
+    "name": "Integration the VLSI Journal",
+    "code": 9817
+  },
+  {
+    "name": "IEEE Journal of Selected Topics in Signal Processing",
+    "code": 972
+  },
+  {
+    "name": "Computer Speech &amp; Language",
+    "code": 24554
+  },
+  {
+    "name": "Networks and Spatial Economics",
+    "code": 1940
+  },
+  {
+    "name": "International Journal of Social Robotics",
+    "code": 5305
+  },
+  {
+    "name": "Computer Languages Systems &amp; Structures",
+    "code": 10912
+  },
+  {
+    "name": "IEEE International RF and Microwave Conference",
+    "code": 30792
+  },
+  {
+    "name": "International Journal of Pattern Recognition and Artificial Intelligence",
+    "code": 6322
+  },
+  {
+    "name": "ASLIB Journal of Information Management",
+    "code": 22913
+  },
+  {
+    "name": "Journal of Machine Learning Research",
+    "code": 1054
+  },
+  {
+    "name": "IEEE Transactions on Systems Man and Cybernetics - Part A: Systems and Humans",
+    "code": 1450
+  },
+  {
+    "name": "Proceedings of the ACM SIGMOD International Conference on Management of Data",
+    "code": 1517
+  },
+  {
+    "name": "Computer Animation and Virtual Worlds",
+    "code": 6929
+  },
+  {
+    "name": "Journal of Computational Methods in Sciences and Engineering",
+    "code": 15641
+  },
+  {
+    "name": "China Communications",
+    "code": 12918
+  },
+  {
+    "name": "Journal of Forecasting",
+    "code": 6580
+  },
+  {
+    "name": "Winter Simulation Conference",
+    "code": 8899
+  },
+  {
+    "name": "Technology Knowledge and Learning",
+    "code": 30032
+  },
+  {
+    "name": "European Conference on Information Systems (ECIS)",
+    "code": 416
+  },
+  {
+    "name": "Journal of Heuristics",
+    "code": 1572
+  },
+  {
+    "name": "IEEE International Conference on Rehabilitation Robotics",
+    "code": 18234
+  },
+  {
+    "name": "IEEE International Symposium on Circuits and Systems",
+    "code": 11154
+  },
+  {
+    "name": "International Journal of Human-Computer Interaction",
+    "code": 4657
+  },
+  {
+    "name": "Program",
+    "code": 5859
+  },
+  {
+    "name": "ACM Transactions on Software Engineering and Methodology",
+    "code": 1600
+  },
+  {
+    "name": "Journal of Computer-Aided Molecular Design",
+    "code": 4269
+  },
+  {
+    "name": "RISTI - Revista Iberica de Sistemas E Tecnologias de Informacao",
+    "code": 18590
+  },
+  {
+    "name": "The Internet and Higher Education",
+    "code": 1510
+  },
+  {
+    "name": "Nonlinear Engineering",
+    "code": 25212
+  },
+  {
+    "name": "Autonomous Robots",
+    "code": 1138
+  },
+  {
+    "name": "Electronic Commerce Research",
+    "code": 6024
+  },
+  {
+    "name": "Industrial Robot: An International Journal",
+    "code": 7635
+  },
+  {
+    "name": "International Journal of Applied Mathematics and Computer Science",
+    "code": 6595
+  },
+  {
+    "name": "Journal of Statistical Software",
+    "code": 941
+  },
+  {
+    "name": "Canadian Journal of Electrical and Computer Engineering",
+    "code": 22740
+  },
+  {
+    "name": "International Journal of Neural Systems",
+    "code": 4266
+  },
+  {
+    "name": "Proceedings of the International Conference on Intelligent Computing",
+    "code": 29693
+  },
+  {
+    "name": "World Congress on Nature and Biologically Inspired Computing",
+    "code": 29824
+  },
+  {
+    "name": "International Conference on Communications Signal Processing and their Applications (ICCSPA)",
+    "code": 29595
+  },
+  {
+    "name": "The International Conference on Soft Computing and Intelligent Systems and The International Symposium on Advanced Intelligence Systems",
+    "code": 30355
+  },
+  {
+    "name": "IEEE International Symposium on Telecommunication Technologies (ISTT)",
+    "code": 30748
+  },
+  {
+    "name": "IEEE Symposium on Wireless Technology &amp; Applications",
+    "code": 30793
+  },
+  {
+    "name": "IEEE International Conference on Computer Science and Information Technology",
+    "code": 30636
+  },
+  {
+    "name": "IEEE Pacific Visualization Symposium",
+    "code": 46142
+  },
+  {
+    "name": "International Conference on Sensor Technologies and Applications (SENSORCOMM)",
+    "code": 45837
+  },
+  {
+    "name": "IEEE GLOBECOM - Workshop on Low Power Wide Area Networking Technologies for Emerging Internet of Things (LPWA4IoT)",
+    "code": 59610
+  },
+  {
+    "name": "Proceedings of the ACM Conference on Computer and Communications Security",
+    "code": 1774
+  },
+  {
+    "name": "CMES - Computer Modeling in Engineering and Sciences",
+    "code": 5668
+  },
+  {
+    "name": "Discrete Mathematics and Theoretical Computer Science",
+    "code": 6913
+  },
+  {
+    "name": "ACM Transactions on Asian Language Information Processing",
+    "code": 9282
+  },
+  {
+    "name": "Journal of Organizational Computing and Electronic Commerce",
+    "code": 10635
+  },
+  {
+    "name": "Journal of Modern Transportation",
+    "code": 10691
+  },
+  {
+    "name": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+    "code": 11954
+  },
+  {
+    "name": "Acta Scientiarum - Technology",
+    "code": 12084
+  },
+  {
+    "name": "Information Management",
+    "code": 20433
+  },
+  {
+    "name": "International Symposium on Modeling and Optimization in Mobile Ad Hoc and Wireless Networks",
+    "code": 35966
+  },
+  {
+    "name": "International Conference on Information and Communication Technologies",
+    "code": 40768
+  },
+  {
+    "name": "International Conference on Image Processing Theory Tools and Applications (IPTA)",
+    "code": 41956
+  },
+  {
+    "name": "International Conference on COMmunication Systems and NETworkS",
+    "code": 45953
+  },
+  {
+    "name": "Journal of Cryptology",
+    "code": 1516
+  },
+  {
+    "name": "Neural Network World",
+    "code": 9164
+  },
+  {
+    "name": "Presence: Teleoperators and Virtual Environments",
+    "code": 9523
+  },
+  {
+    "name": "International Journal of Gaming and Computer-Mediated Simulations (IJGCMS)",
+    "code": 10657
+  },
+  {
+    "name": "Technology and Health Care",
+    "code": 11741
+  },
+  {
+    "name": "Machine Translation",
+    "code": 12285
+  },
+  {
+    "name": "International Conference on Computer Science and Information Technology",
+    "code": 32085
+  },
+  {
+    "name": "Next Generation Internet Networks",
+    "code": 31173
+  },
+  {
+    "name": "SEMAT Workshop on a General Theory of Software Engineering",
+    "code": 35226
+  },
+  {
+    "name": "Automated Software Engineering",
+    "code": 1643
+  },
+  {
+    "name": "ACM Transactions on Computational Logic",
+    "code": 1818
+  },
+  {
+    "name": "First Monday",
+    "code": 6620
+  },
+  {
+    "name": "ACM Transactions on Management Information Systems",
+    "code": 6876
+  },
+  {
+    "name": "Journal of Next Generation Information Technology",
+    "code": 10748
+  },
+  {
+    "name": "Artificial Life and Robotics",
+    "code": 11602
+  },
+  {
+    "name": "New Mathematics and Natural Computation",
+    "code": 20585
+  },
+  {
+    "name": "Annual International Conference Electrical Engineering/Electronics Computer Telecommunications and Information Technology",
+    "code": 29934
+  },
+  {
+    "name": "Proceedings of the International Conference on Advances in Circuits Electronics and Micro-electronics",
+    "code": 37111
+  },
+  {
+    "name": "Proceedings of the National Conference on Communications",
+    "code": 52072
+  },
+  {
+    "name": "ACM Transactions on Information and System Security",
+    "code": 1096
+  },
+  {
+    "name": "QSAR &amp; Combinatorial Science",
+    "code": 24844
+  },
+  {
+    "name": "IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)",
+    "code": 29970
+  },
+  {
+    "name": "International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)",
+    "code": 35507
+  },
+  {
+    "name": "International Journal of Distributed Systems and Technologies (IJDST)",
+    "code": 42029
+  },
+  {
+    "name": "International Conference on Electrical Engineering Computing Science and Automatic Control (CCE)",
+    "code": 55186
+  },
+  {
+    "name": "Multiagent and Grid Systems",
+    "code": 17455
+  },
+  {
+    "name": "International Conference on Advanced Technologies for Communications",
+    "code": 30720
+  },
+  {
+    "name": "International Conference for High Performance Computing Networking Storage and Analysis",
+    "code": 32905
+  },
+  {
+    "name": "IEEE International Conference on Granular Computing",
+    "code": 51228
+  },
+  {
+    "name": "Advances in Mathematics of Communications",
+    "code": 5674
+  },
+  {
+    "name": "International Journal of Design",
+    "code": 10345
+  },
+  {
+    "name": "International Journal of Web Based Communities",
+    "code": 11347
+  },
+  {
+    "name": "Informacion Tecnologica",
+    "code": 13311
+  },
+  {
+    "name": "Journal of Decision Systems",
+    "code": 13443
+  },
+  {
+    "name": "Journal of High Speed Networks",
+    "code": 18871
+  },
+  {
+    "name": "IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+    "code": 28154
+  },
+  {
+    "name": "Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+    "code": 29015
+  },
+  {
+    "name": "IEEE Conference on Visual Analytics Science and Technology",
+    "code": 37446
+  },
+  {
+    "name": "Games and Culture",
+    "code": 3057
+  },
+  {
+    "name": "International Journal of Simulation Modelling",
+    "code": 6377
+  },
+  {
+    "name": "International Journal of Intelligent Computing and Cybernetics",
+    "code": 10006
+  },
+  {
+    "name": "Computational Methods and Function Theory",
+    "code": 11412
+  },
+  {
+    "name": "WSEAS Transactions on Systems and Control",
+    "code": 12941
+  },
+  {
+    "name": "International Journal of Mobile Learning and Organisation",
+    "code": 14765
+  },
+  {
+    "name": "International Journal of Web-Based Learning and Teaching Technologies (IJWLTT)",
+    "code": 15835
+  },
+  {
+    "name": "IEEE International Conference on Mechatronics",
+    "code": 30518
+  },
+  {
+    "name": "International Conference on Emerging Technologies",
+    "code": 36621
+  },
+  {
+    "name": "Proceedings of the Latin American Computing Conference",
+    "code": 38306
+  },
+  {
+    "name": "Simulation &amp; Gaming",
+    "code": 39228
+  },
+  {
+    "name": "Proceedings of the International Conference on Dublin Core and Metadata Applications",
+    "code": 50080
+  },
+  {
+    "name": "International Workshop on Computational Intelligence for Multimedia Understanding (IWCIM)",
+    "code": 52220
+  },
+  {
+    "name": "SIAM Journal on Computing",
+    "code": 924
+  },
+  {
+    "name": "Foundations of Computational Mathematics",
+    "code": 859
+  },
+  {
+    "name": "Theory of Computing Systems",
+    "code": 2428
+  },
+  {
+    "name": "Journal of WSCG",
+    "code": 13493
+  },
+  {
+    "name": "International Journal of Computational Materials Science and Surface Engineering",
+    "code": 15120
+  },
+  {
+    "name": "Communications in Computer and Information Science",
+    "code": 15534
+  },
+  {
+    "name": "International Review of Law Computers &amp; Technology",
+    "code": 15418
+  },
+  {
+    "name": "Journal of Electrical Systems",
+    "code": 15712
+  },
+  {
+    "name": "Journal of Information Processing",
+    "code": 20506
+  },
+  {
+    "name": "IEEE International Conference on Pervasive Computing and Communications Workshops",
+    "code": 31157
+  },
+  {
+    "name": "IEEE International Symposium on Multimedia",
+    "code": 46597
+  },
+  {
+    "name": "International Conference on Cyber-enabled Distributed Computing and Knowledge Discovery",
+    "code": 51614
+  },
+  {
+    "name": "International Conference on Software Engineering and Knowledge Engineering",
+    "code": 54688
+  },
+  {
+    "name": "International Conference on Information Sciences Signal Processing and their Applications",
+    "code": 54505
+  },
+  {
+    "name": "Transportmetrica",
+    "code": 3649
+  },
+  {
+    "name": "Networks and Heterogeneous Media",
+    "code": 5670
+  },
+  {
+    "name": "International Journal for Multiscale Computational Engineering",
+    "code": 6821
+  },
+  {
+    "name": "International Journal of Technology and Human Interaction",
+    "code": 13361
+  },
+  {
+    "name": "International Journal of Technology Enhanced Learning",
+    "code": 13864
+  },
+  {
+    "name": "IEEE International Conference on Electronics Circuits and Systems",
+    "code": 29428
+  },
+  {
+    "name": "IEEE Conference on Wireless Sensors (ICWiSE)",
+    "code": 30747
+  },
+  {
+    "name": "International Conference on Signal Processing and Integrated Networks (SPIN)",
+    "code": 33918
+  },
+  {
+    "name": "Proceedings of the International Conference on Localization and GNSS",
+    "code": 38777
+  },
+  {
+    "name": "International Journal of Fuzzy System Applications (IJFSA)",
+    "code": 38611
+  },
+  {
+    "name": "IEEE Visual Communications and Image Processing Conference",
+    "code": 44296
+  },
+  {
+    "name": "Workshop on Information Technology and Systems",
+    "code": 44662
+  },
+  {
+    "name": "International Symposium on Medical Information and Communication Technology",
+    "code": 47238
+  },
+  {
+    "name": "Communication Culture &amp; Critique",
+    "code": 48717
+  },
+  {
+    "name": "Information and Computation",
+    "code": 1802
+  },
+  {
+    "name": "Journal of Automated Reasoning",
+    "code": 1950
+  },
+  {
+    "name": "Logical Methods in Computer Science",
+    "code": 3434
+  },
+  {
+    "name": "International Journal of Web and Grid Services",
+    "code": 6238
+  },
+  {
+    "name": "Journal of Research and Practice in Information Technology",
+    "code": 9712
+  },
+  {
+    "name": "International Journal of Networking and Virtual Organisations",
+    "code": 11233
+  },
+  {
+    "name": "Journal of Internet Banking and Commerce",
+    "code": 11254
+  },
+  {
+    "name": "International Journal of Grid and High Performance Computing",
+    "code": 14796
+  },
+  {
+    "name": "Electronic Letters on Computer Vision and Image Analysis",
+    "code": 15443
+  },
+  {
+    "name": "International Journal of Mobile Computing and Multimedia Communications",
+    "code": 17913
+  },
+  {
+    "name": "IEEE International Conference on Cluster Computing",
+    "code": 27693
+  },
+  {
+    "name": "Proceedings of the International Conference on Computational Methods in Sciences and Engineering",
+    "code": 28870
+  },
+  {
+    "name": "International Workshop on Satellite and Space Communications",
+    "code": 33271
+  },
+  {
+    "name": "International Journal of Virtual and Personal Learning Environments (IJVPLE)",
+    "code": 36242
+  },
+  {
+    "name": "International Journal of Critical Computer-Based Systems",
+    "code": 37158
+  },
+  {
+    "name": "Proceedings of IEEE International Conference on Systems Man and Cybernetics",
+    "code": 38030
+  },
+  {
+    "name": "International Conference on Information and Communication Systems",
+    "code": 48988
+  },
+  {
+    "name": "Proceedings of the International Conference on Mobile and Ubiquitous Multimedia - MUM",
+    "code": 48130
+  },
+  {
+    "name": "The Journal of Computational Finance",
+    "code": 52274
+  },
+  {
+    "name": "Far East Journal of Electronics and Communications",
+    "code": 55712
+  },
+  {
+    "name": "IEEE International Workshop on Computer Aided Modelling and Design of Communication Links and Networks",
+    "code": 40408
+  },
+  {
+    "name": "International Journal of Security and Networks",
+    "code": 3842
+  },
+  {
+    "name": "International Journal of General Systems",
+    "code": 5679
+  },
+  {
+    "name": "International Journal of Information Processing and Management",
+    "code": 8228
+  },
+  {
+    "name": "Computers Materials and Continua",
+    "code": 8538
+  },
+  {
+    "name": "Automatisierungstechnik",
+    "code": 10568
+  },
+  {
+    "name": "Malaysian Journal of Computer Science",
+    "code": 14546
+  },
+  {
+    "name": "International Journal of Mobile Network Design and Innovation",
+    "code": 18415
+  },
+  {
+    "name": "International Journal of Mobile and Blended Learning (IJMBL)",
+    "code": 20455
+  },
+  {
+    "name": "Proceedings of International Conference on Computer Communications and Networks (ICCCN)",
+    "code": 31169
+  },
+  {
+    "name": "Second ACM/IEEE International Conference on Distributed Smart Cameras",
+    "code": 31411
+  },
+  {
+    "name": "IEEE Transactions on Multi-Scale Computing Systems",
+    "code": 37556
+  },
+  {
+    "name": "Proceedings of the International Conference on Tangible Embedded and Embodied Interaction - TEI",
+    "code": 48176
+  },
+  {
+    "name": "Proceedings of the Chinese Control Conference",
+    "code": 49472
+  },
+  {
+    "name": "International Conference on Systems Signals and Image Processing",
+    "code": 56031
+  },
+  {
+    "name": "Advances in Neural Information Processing Systems (",
+    "code": 178
+  },
+  {
+    "name": "Journal of Mathematical Cryptology",
+    "code": 4067
+  },
+  {
+    "name": "Match",
+    "code": 8145
+  },
+  {
+    "name": "International Journal of Wireless and Mobile Computing",
+    "code": 11617
+  },
+  {
+    "name": "Journal of Computers",
+    "code": 12566
+  },
+  {
+    "name": "Journal of Electronic Commerce in Organizations",
+    "code": 17444
+  },
+  {
+    "name": "Journal of Information Communication and Ethics in Society",
+    "code": 27778
+  },
+  {
+    "name": "International Conference on Telecommunications and Multimedia",
+    "code": 36564
+  },
+  {
+    "name": "International Conference on Next Generation Web Services Practices",
+    "code": 38276
+  },
+  {
+    "name": "Proceedings - IEEE INFOCOM",
+    "code": 1750
+  },
+  {
+    "name": "Proceedings - Symposium on Logic in Computer Science",
+    "code": 1965
+  },
+  {
+    "name": "Journal of Advanced Research in Dynamical and Control Systems",
+    "code": 15278
+  },
+  {
+    "name": "Transactions on Electrical Engineering Electronics and Communications",
+    "code": 17530
+  },
+  {
+    "name": "Proceedings of the Asia-Pacific Software Engineering Conference",
+    "code": 40058
+  },
+  {
+    "name": "Advanced International Conference on Telecommunications",
+    "code": 54034
+  },
+  {
+    "name": "Constraints",
+    "code": 1148
+  },
+  {
+    "name": "Journal of Documentation",
+    "code": 2242
+  },
+  {
+    "name": "International Journal of Computational Geometry and Applications",
+    "code": 7174
+  },
+  {
+    "name": "Computer-Aided Design and Applications",
+    "code": 9355
+  },
+  {
+    "name": "IEEE Annals of the History of Computing",
+    "code": 10314
+  },
+  {
+    "name": "Journal of Applied Analysis",
+    "code": 10787
+  },
+  {
+    "name": "IEEE International Conference on Ultra-Wideband",
+    "code": 30670
+  },
+  {
+    "name": "International Conference on Information Networking (ICOIN)",
+    "code": 30738
+  },
+  {
+    "name": "Information Polity",
+    "code": 31788
+  },
+  {
+    "name": "International Journal of Vehicular Technology",
+    "code": 35610
+  },
+  {
+    "name": "Proceedings of the Workshop on Modularity in Systems Software",
+    "code": 48556
+  },
+  {
+    "name": "Journal of Information Technology Research (JITR)",
+    "code": 54465
+  },
+  {
+    "name": "International Symposium on Wearable Computers",
+    "code": 55891
+  },
+  {
+    "name": "IEEE Vehicular Networking Conference",
+    "code": 36046
+  },
+  {
+    "name": "International Journal on Semantic Web and Information Systems (IJSWIS)",
+    "code": 742
+  },
+  {
+    "name": "International Journal of Vehicle Information and Communication Systems",
+    "code": 11298
+  },
+  {
+    "name": "Studies in Informatics and Control",
+    "code": 12368
+  },
+  {
+    "name": "Neural Parallel and Scientific Computations",
+    "code": 12251
+  },
+  {
+    "name": "Proceedings of the Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises WET ICE",
+    "code": 14135
+  },
+  {
+    "name": "Information Security Technical Report",
+    "code": 13694
+  },
+  {
+    "name": "Information",
+    "code": 13759
+  },
+  {
+    "name": "Research on Language and Computation",
+    "code": 17918
+  },
+  {
+    "name": "Proceedings of the International Conference on Evolutionary Computation Theory and Applications",
+    "code": 30358
+  },
+  {
+    "name": "Journal of Optical Networking",
+    "code": 30673
+  },
+  {
+    "name": "Sixth International Conference on Ubiquitous and Future Networks (ICUFN)",
+    "code": 30741
+  },
+  {
+    "name": "IEEE International NEW Circuits And Systems Conference",
+    "code": 33699
+  },
+  {
+    "name": "International Symposium on Turbo Codes and Iterative Information Processing",
+    "code": 38035
+  },
+  {
+    "name": "Mathematical Programming Computation",
+    "code": 1067
+  },
+  {
+    "name": "ACM Transactions on Computation Theory",
+    "code": 2149
+  },
+  {
+    "name": "Parallel Processing Letters",
+    "code": 8929
+  },
+  {
+    "name": "Mathematical and Computational Forestry and Natural-Resource Sciences",
+    "code": 9638
+  },
+  {
+    "name": "Journal of Global Information Management (JGIM)",
+    "code": 9969
+  },
+  {
+    "name": "Journal of Information Science and Engineering",
+    "code": 11799
+  },
+  {
+    "name": "Journal of Robotics and Mechatronics",
+    "code": 12022
+  },
+  {
+    "name": "International Journal of Distance Education Technologies (IJDET)",
+    "code": 13691
+  },
+  {
+    "name": "Research",
+    "code": 26086
+  },
+  {
+    "name": "IEEE International Conference on Computer and Communication Technology",
+    "code": 29510
+  },
+  {
+    "name": "International Conference on Broadband Communications Networks and Systems (BROADNETS)",
+    "code": 30955
+  },
+  {
+    "name": "International Conference on Telecommunications and Multimedia (TEMU)",
+    "code": 30404
+  },
+  {
+    "name": "International Conference on ITS Telecommunications",
+    "code": 31456
+  },
+  {
+    "name": "International Conference on Education Technology and Computer",
+    "code": 34785
+  },
+  {
+    "name": "IEEE International Conference on Robotics Automation and Mechatronics",
+    "code": 36122
+  },
+  {
+    "name": "International Telecommunications Symposium",
+    "code": 36940
+  },
+  {
+    "name": "Journal of Electronic Commerce Research",
+    "code": 36500
+  },
+  {
+    "name": "3DTV-Conference: The True Vision - Capture Transmission and Display of 3D Video",
+    "code": 46195
+  },
+  {
+    "name": "Proceedings of the Audio Mostly Conference",
+    "code": 55518
+  },
+  {
+    "name": "Journal of Logic and Algebraic Programming",
+    "code": 3186
+  },
+  {
+    "name": "Discrete and Computational Geometry",
+    "code": 3246
+  },
+  {
+    "name": "Proceedings of the International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)",
+    "code": 3375
+  },
+  {
+    "name": "International Journal on Software Tools for Technology Transfer",
+    "code": 4422
+  },
+  {
+    "name": "Open Systems &amp; Information Dynamics",
+    "code": 7581
+  },
+  {
+    "name": "Journal of Interactive Learning Research",
+    "code": 9007
+  },
+  {
+    "name": "International Journal of Electronic Security and Digital Forensics",
+    "code": 10826
+  },
+  {
+    "name": "In Silico Biology",
+    "code": 13176
+  },
+  {
+    "name": "Journal of Mathematics and the Arts",
+    "code": 15614
+  },
+  {
+    "name": "IEEE International Symposium on a World of Wireless Mobile and Multimedia Networks",
+    "code": 30957
+  },
+  {
+    "name": "International Conference on the Design of Reliable Communication Networks (DRCN)",
+    "code": 30399
+  },
+  {
+    "name": "IEEE Conference on Industrial Electronics and Applications",
+    "code": 30114
+  },
+  {
+    "name": "International Conference on Application of Information and Communication Technologies (AICT)",
+    "code": 33089
+  },
+  {
+    "name": "Journal of Spatial Information Science",
+    "code": 44297
+  },
+  {
+    "name": "IEEE International Workshop on Multimedia Signal Processing",
+    "code": 43946
+  },
+  {
+    "name": "Journal of Technology and Science Education",
+    "code": 48145
+  },
+  {
+    "name": "Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms",
+    "code": 1252
+  },
+  {
+    "name": "Numerical Heat Transfer Part B: Fundamentals",
+    "code": 2827
+  },
+  {
+    "name": "Computing and Visualization in Science",
+    "code": 6711
+  },
+  {
+    "name": "Applied Categorical Structures",
+    "code": 6340
+  },
+  {
+    "name": "International Journal of Information Systems and Supply Chain Management",
+    "code": 9688
+  },
+  {
+    "name": "International Journal of Intelligent Information and Database Systems",
+    "code": 11815
+  },
+  {
+    "name": "Modelling Measurement and Control A",
+    "code": 17487
+  },
+  {
+    "name": "International Journal of Computer Science in Sport",
+    "code": 20444
+  },
+  {
+    "name": "World Congress on Information and Communication Technologies",
+    "code": 30627
+  },
+  {
+    "name": "International Journal of Electronic Business",
+    "code": 33245
+  },
+  {
+    "name": "International Journal of Pervasive Computing and Communications",
+    "code": 34678
+  },
+  {
+    "name": "International Conference on Hybrid Intelligent Systems (HIS)",
+    "code": 36096
+  },
+  {
+    "name": "Nordic Journal of Digital Literacy",
+    "code": 37619
+  },
+  {
+    "name": "Proceedings of International Workshop on Science Gateways",
+    "code": 55142
+  },
+  {
+    "name": "ACM Transactions on Programming Languages and Systems",
+    "code": 1086
+  },
+  {
+    "name": "Journal of the ACM",
+    "code": 664
+  },
+  {
+    "name": "ACM SIGGRAPH Talks on - SIGGRAPH",
+    "code": 122
+  },
+  {
+    "name": "Web Intelligence and Agent Systems",
+    "code": 8873
+  },
+  {
+    "name": "International Journal of Mobile Human Computer Interaction",
+    "code": 20456
+  },
+  {
+    "name": "Conference Proceedings",
+    "code": 22436
+  },
+  {
+    "name": "International Conference on Advanced Robotics",
+    "code": 29909
+  },
+  {
+    "name": "International Joint Conference on Computer Science and Software Engineering",
+    "code": 29935
+  },
+  {
+    "name": "Algorithmic Finance",
+    "code": 33274
+  },
+  {
+    "name": "International Journal of Human Capital and Information Technology Professionals (IJHCITP)",
+    "code": 47384
+  },
+  {
+    "name": "International Conferences on Advances in Multimedia",
+    "code": 50988
+  },
+  {
+    "name": "Proceedings of the Annual ACM Symposium on Theory of Computing",
+    "code": 713
+  },
+  {
+    "name": "International Journal of Artificial Intelligence",
+    "code": 8179
+  },
+  {
+    "name": "IPSJ Transactions on Computer Vision and Applications",
+    "code": 11332
+  },
+  {
+    "name": "Proceedings of the SICE Annual Conference",
+    "code": 12324
+  },
+  {
+    "name": "International Journal of Agent-Oriented Software Engineering",
+    "code": 12878
+  },
+  {
+    "name": "International Journal of Knowledge Management Studies",
+    "code": 15153
+  },
+  {
+    "name": "LMS Journal of Computation and Mathematics",
+    "code": 18463
+  },
+  {
+    "name": "Artnodes",
+    "code": 18967
+  },
+  {
+    "name": "Information - Wissenschaft &amp; Praxis",
+    "code": 22485
+  },
+  {
+    "name": "Journal of Automated Methods and Management in Chemistry",
+    "code": 32293
+  },
+  {
+    "name": "Proceedings of the International Conference on Body Area Networks",
+    "code": 55840
+  },
+  {
+    "name": "Mathematical Structures in Computer Science",
+    "code": 4110
+  },
+  {
+    "name": "Mathematics in Computer Science",
+    "code": 8301
+  },
+  {
+    "name": "International Journal of Applied Cryptography",
+    "code": 9084
+  },
+  {
+    "name": "Journal of Systems Science and Complexity",
+    "code": 9467
+  },
+  {
+    "name": "International Journal of Web Services Research (IJWSR)",
+    "code": 10200
+  },
+  {
+    "name": "Order",
+    "code": 9761
+  },
+  {
+    "name": "Advances in Modelling and Analysis B",
+    "code": 19095
+  },
+  {
+    "name": "IEEE International Symposium on Communications and Information Technologies",
+    "code": 30252
+  },
+  {
+    "name": "IEEE International Conference on Digital Signal Processing (DSP)",
+    "code": 31588
+  },
+  {
+    "name": "International Conference on Control Computing Communication and Materials",
+    "code": 41826
+  },
+  {
+    "name": "IEEE International Conference on Autonomous Robot Systems and Competitions",
+    "code": 48249
+  },
+  {
+    "name": "ITALICS Innovations in Teaching and Learning in Information and Computer Sciences",
+    "code": 16666
+  },
+  {
+    "name": "Distributed Computing",
+    "code": 2375
+  },
+  {
+    "name": "Computer Music Journal",
+    "code": 7740
+  },
+  {
+    "name": "IEEE Computer Architecture Letters",
+    "code": 8114
+  },
+  {
+    "name": "International Journal of Computers Communications &amp; Control",
+    "code": 10487
+  },
+  {
+    "name": "International Journal of Computer Games Technology",
+    "code": 11383
+  },
+  {
+    "name": "International Journal of Internet Protocol Technology",
+    "code": 12643
+  },
+  {
+    "name": "Computers in Education Journal",
+    "code": 13375
+  },
+  {
+    "name": "WSEAS Transactions on Signal Processing",
+    "code": 14292
+  },
+  {
+    "name": "Journal of Cloud Computing",
+    "code": 27478
+  },
+  {
+    "name": "Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining - ASONAM",
+    "code": 28460
+  },
+  {
+    "name": "IEEE International Workshop on Machine Learning for Signal Processing",
+    "code": 36189
+  },
+  {
+    "name": "Proceedings of the International Conference on Computer Graphics Imaging and Visualization",
+    "code": 37936
+  },
+  {
+    "name": "International Conference on Computer Applications &amp; Technology",
+    "code": 49215
+  },
+  {
+    "name": "International Journal of Computer Applications &amp; Information Technology (IJCAIT)",
+    "code": 83050
+  },
+  {
+    "name": "International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS",
+    "code": 1085
+  },
+  {
+    "name": "Journal of Graph Algorithms and Applications",
+    "code": 4794
+  },
+  {
+    "name": "Acta Informatica",
+    "code": 6077
+  },
+  {
+    "name": "Journal of Rail Transport Planning and Management",
+    "code": 8203
+  },
+  {
+    "name": "Informatics in Education",
+    "code": 10308
+  },
+  {
+    "name": "Journal of Computer and Systems Sciences International",
+    "code": 11499
+  },
+  {
+    "name": "IAENG International Journal of Computer Science",
+    "code": 10701
+  },
+  {
+    "name": "Gyroscopy and Navigation",
+    "code": 13070
+  },
+  {
+    "name": "Internet Electronic Journal of Molecular Design",
+    "code": 15726
+  },
+  {
+    "name": "International Conference on Computational Science and Technology (ICCST)",
+    "code": 27140
+  },
+  {
+    "name": "IEEE Symposium on Computational Intelligence and Data Mining",
+    "code": 29520
+  },
+  {
+    "name": "IEEE International Conference on Mechatronics (ICM)",
+    "code": 31631
+  },
+  {
+    "name": "International Conference on Wireless Communications Networking and Mobile Computing",
+    "code": 31158
+  },
+  {
+    "name": "European Conference on Circuit Theory and Design",
+    "code": 34088
+  },
+  {
+    "name": "American Journal of Distance Education",
+    "code": 54558
+  },
+  {
+    "name": "Random Structures and Algorithms",
+    "code": 1473
+  },
+  {
+    "name": "Information Technology Journal",
+    "code": 8708
+  },
+  {
+    "name": "Scandinavian Journal of Information Systems",
+    "code": 9786
+  },
+  {
+    "name": "Journal of Asynchronous Learning Network",
+    "code": 10194
+  },
+  {
+    "name": "Journal of Software",
+    "code": 12250
+  },
+  {
+    "name": "WSEAS Transactions on Computers",
+    "code": 12532
+  },
+  {
+    "name": "International Journal of Ambient Computing and Intelligence",
+    "code": 13724
+  },
+  {
+    "name": "International Journal of Intelligent Engineering and Systems",
+    "code": 18823
+  },
+  {
+    "name": "International Conference on Electrical Information and Communication Technology (EICT)",
+    "code": 31927
+  },
+  {
+    "name": "International Conference on Collaboration Technologies and Systems",
+    "code": 40382
+  },
+  {
+    "name": "IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems",
+    "code": 47911
+  },
+  {
+    "name": "IEEE Conference on Evolving and Adaptive Intelligent Systems",
+    "code": 51146
+  },
+  {
+    "name": "International Conference on Advanced Computer Control",
+    "code": 55942
+  },
+  {
+    "name": "Design Issues",
+    "code": 14437
+  },
+  {
+    "name": "Foundations and Trends in Information Retrieval",
+    "code": 645
+  },
+  {
+    "name": "Proceedings - Real-Time Systems Symposium",
+    "code": 2964
+  },
+  {
+    "name": "Computer Science - Research and Development",
+    "code": 2992
+  },
+  {
+    "name": "Journal of Information Hiding and Multimedia Signal Processing",
+    "code": 2554
+  },
+  {
+    "name": "Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming PPOPP",
+    "code": 2850
+  },
+  {
+    "name": "International Journal of Data Warehousing and Mining (IJDWM)",
+    "code": 3697
+  },
+  {
+    "name": "RAIRO - Theoretical Informatics and Applications",
+    "code": 5120
+  },
+  {
+    "name": "Human IT",
+    "code": 9796
+  },
+  {
+    "name": "International Journal of Computational Intelligence and Applications",
+    "code": 9879
+  },
+  {
+    "name": "International Journal of Electronics and Telecommunications",
+    "code": 14459
+  },
+  {
+    "name": "Leonardo Music Journal",
+    "code": 15838
+  },
+  {
+    "name": "Complex Systems",
+    "code": 20325
+  },
+  {
+    "name": "Journal of Cellular Automata",
+    "code": 22027
+  },
+  {
+    "name": "International Conference on Computational Intelligence and Security",
+    "code": 27936
+  },
+  {
+    "name": "IEEE International Conference on Computing and Communications Technologies",
+    "code": 29466
+  },
+  {
+    "name": "International Conference on Systems Biology (ISB)",
+    "code": 29977
+  },
+  {
+    "name": "IEEE International Conference on E-Learning in Industrial Electronics",
+    "code": 30516
+  },
+  {
+    "name": "Proceedings IEEE International Parallel &amp; Distributed Processing Symposium",
+    "code": 31643
+  },
+  {
+    "name": "IEEE Signal Processing and Communications Applications",
+    "code": 34591
+  },
+  {
+    "name": "International Conference on Advanced Geographic Information Systems Applications and Services",
+    "code": 34871
+  },
+  {
+    "name": "International Conference on Broadband Communications Networks and Systems",
+    "code": 35963
+  },
+  {
+    "name": "International Journal of Electronic Commerce Studies",
+    "code": 36167
+  },
+  {
+    "name": "Malaysia International Conference on Communications",
+    "code": 44181
+  },
+  {
+    "name": "ITI International Conference on Information and Communications Technology",
+    "code": 52908
+  },
+  {
+    "name": "IEEE International Symposium on Cluster Computing and the Grid",
+    "code": 55503
+  },
+  {
+    "name": "IEEE International Symposium on Cluster Computing and the Grid",
+    "code": 55503
+  },
+  {
+    "name": "International Conference on Digital Information Management",
+    "code": 79660
+  },
+  {
+    "name": "Journal of Computer Security",
+    "code": 2306
+  },
+  {
+    "name": "Vascular Cell",
+    "code": 3739
+  },
+  {
+    "name": "ACM Transactions on Computer Systems",
+    "code": 7375
+  },
+  {
+    "name": "Journal of Multiple-Valued Logic and Soft Computing",
+    "code": 7102
+  },
+  {
+    "name": "Higher-Order and Symbolic Computation",
+    "code": 7880
+  },
+  {
+    "name": "Pragmatics and Cognition",
+    "code": 9050
+  },
+  {
+    "name": "Journal of Database Management",
+    "code": 9736
+  },
+  {
+    "name": "Computer Law &amp; Security Review",
+    "code": 9956
+  },
+  {
+    "name": "International Journal of Aviation Psychology",
+    "code": 11276
+  },
+  {
+    "name": "International Journal of Innovative Computing and Applications",
+    "code": 11969
+  },
+  {
+    "name": "WSEAS Transactions on Information Science and Applications",
+    "code": 13775
+  },
+  {
+    "name": "Journal on Chain and Network Science",
+    "code": 14164
+  },
+  {
+    "name": "Istrazivanja I Projektovanja za Privredu",
+    "code": 13521
+  },
+  {
+    "name": "International Journal of Applied Systemic Studies",
+    "code": 17871
+  },
+  {
+    "name": "IEEE Engineering Management Review",
+    "code": 18653
+  },
+  {
+    "name": "Proceedings of the International Conference on Simulation and Modeling Methodologies Technologies and Applications",
+    "code": 23680
+  },
+  {
+    "name": "IEEE International Advance Computing Conference",
+    "code": 31153
+  },
+  {
+    "name": "International Symposium on Communications Control and Signal Processing",
+    "code": 33440
+  },
+  {
+    "name": "Spatial Vision",
+    "code": 34152
+  },
+  {
+    "name": "International Conference on Control Automation Robotics and Vision",
+    "code": 35186
+  },
+  {
+    "name": "IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)",
+    "code": 36544
+  },
+  {
+    "name": "IEEE/IFIP Network Operations and Management Symposium Workshops",
+    "code": 47796
+  },
+  {
+    "name": "IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks",
+    "code": 54588
+  },
+  {
+    "name": "Formal Methods in System Design",
+    "code": 1911
+  },
+  {
+    "name": "SIGMOD Record",
+    "code": 2173
+  },
+  {
+    "name": "Physics of Life Reviews",
+    "code": 2786
+  },
+  {
+    "name": "Proceedings of the ACM SIGPLAN International Conference on Functional Programming ICFP",
+    "code": 2699
+  },
+  {
+    "name": "Journal of Artificial Intelligence",
+    "code": 4365
+  },
+  {
+    "name": "Parallel Architectures and Compilation Techniques - Conference Proceedings PACT",
+    "code": 4213
+  },
+  {
+    "name": "Proceedings - International Conference on Distributed Computing Systems",
+    "code": 6415
+  },
+  {
+    "name": "International Game Theory Review",
+    "code": 11901
+  },
+  {
+    "name": "Journal of Interconnection Networks",
+    "code": 11443
+  },
+  {
+    "name": "Digital Creativity",
+    "code": 14453
+  },
+  {
+    "name": "International Conference on Communication Technology Proceedings ICCT",
+    "code": 16304
+  },
+  {
+    "name": "Journal of Flow Visualization and Image Processing",
+    "code": 16018
+  },
+  {
+    "name": "Infocommunications Journal",
+    "code": 19019
+  },
+  {
+    "name": "International Journal of Work Innovation",
+    "code": 20466
+  },
+  {
+    "name": "Advances in Adaptive Data Analysis",
+    "code": 29513
+  },
+  {
+    "name": "ASME/ISCIE International Symposium on Flexible Automation",
+    "code": 29744
+  },
+  {
+    "name": "Proceedings of the Annual Southeast Regional Conference on - ACM-SE",
+    "code": 31283
+  },
+  {
+    "name": "ACM Symposium on Parallelism in Algorithms and Architectures",
+    "code": 47265
+  },
+  {
+    "name": "HPDC - Proceedings of the ACM International Symposium on High-Performance Parallel and Distributed Computing",
+    "code": 50276
+  },
+  {
+    "name": "Scalable Computing",
+    "code": 51006
+  },
+  {
+    "name": "Proceedings of the International Conference on Supercomputing",
+    "code": 3382
+  },
+  {
+    "name": "Electronic Notes in Theoretical Computer Science",
+    "code": 6512
+  },
+  {
+    "name": "Nonlinear Biomedical Physics",
+    "code": 8746
+  },
+  {
+    "name": "Journal of Emerging Technologies in Web Intelligence",
+    "code": 9478
+  },
+  {
+    "name": "Acta Cybernetica",
+    "code": 10628
+  },
+  {
+    "name": "International Journal of Computer Science and Applications",
+    "code": 11421
+  },
+  {
+    "name": "Journal of Physical Agents",
+    "code": 14062
+  },
+  {
+    "name": "TripleC",
+    "code": 14806
+  },
+  {
+    "name": "Journal of Digital Information Management",
+    "code": 14833
+  },
+  {
+    "name": "Inteligencia Artificial",
+    "code": 15477
+  },
+  {
+    "name": "Lingvisticae Investigationes",
+    "code": 15702
+  },
+  {
+    "name": "Journal of Geomatics",
+    "code": 19057
+  },
+  {
+    "name": "Sixth International Conference on Information Communications and Signal Processing",
+    "code": 25138
+  },
+  {
+    "name": "IEEE International Symposium on Intelligent Control (ISIC)",
+    "code": 29117
+  },
+  {
+    "name": "International Conference on Computing Management and Telecommunications",
+    "code": 30721
+  },
+  {
+    "name": "International Conference on Computing Management and Telecommunications",
+    "code": 30721
+  },
+  {
+    "name": "IEEE International Conference on Computational Intelligence and Computing Research",
+    "code": 30804
+  },
+  {
+    "name": "IEEE IVMSP Workshop: 3D Image/Video Technologies and Applications",
+    "code": 31959
+  },
+  {
+    "name": "International Journal of Agricultural and Environmental Information Systems (IJAEIS)",
+    "code": 32979
+  },
+  {
+    "name": "Real-Time Imaging",
+    "code": 32430
+  },
+  {
+    "name": "IEEE International Symposium on Safety Security and Rescue Robotics (SSRR)",
+    "code": 37177
+  },
+  {
+    "name": "International Conference on Intelligent Networking and Collaborative Systems",
+    "code": 44671
+  },
+  {
+    "name": "Latin American Network Operations and Management Symposium",
+    "code": 47795
+  },
+  {
+    "name": "Proceedings of the Sixth International Conference on Tangible Embedded and Embodied Interaction - TEI",
+    "code": 48132
+  },
+  {
+    "name": "gis.Science - Die Zeitschrift fur Geoinformatik",
+    "code": 49102
+  },
+  {
+    "name": "International Conference on Systems",
+    "code": 49819
+  },
+  {
+    "name": "International Conference on Indoor Positioning and Indoor Navigation",
+    "code": 48593
+  },
+  {
+    "name": "International Conference on Web Information Systems and Mining",
+    "code": 50819
+  },
+  {
+    "name": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)",
+    "code": 889
+  },
+  {
+    "name": "Argument and Computation",
+    "code": 908
+  },
+  {
+    "name": "Proceedings of the Annual ACM Symposium on Principles of Distributed Computing",
+    "code": 3761
+  },
+  {
+    "name": "Electronic Journal of Information Technology in Construction",
+    "code": 9316
+  },
+  {
+    "name": "Xi'an Dianzi Keji Daxue Xuebao/Journal of Xidian University",
+    "code": 10930
+  },
+  {
+    "name": "New Review of Information Networking",
+    "code": 11440
+  },
+  {
+    "name": "ICGA Journal",
+    "code": 11750
+  },
+  {
+    "name": "Journal of Internet Commerce",
+    "code": 11984
+  },
+  {
+    "name": "Journal of Networks",
+    "code": 11805
+  },
+  {
+    "name": "Information Security Journal",
+    "code": 12560
+  },
+  {
+    "name": "Trends in Bioinformatics",
+    "code": 13222
+  },
+  {
+    "name": "Studies in Computational Intelligence",
+    "code": 12404
+  },
+  {
+    "name": "Revue Francaise de Photogrammetrie et de Teledetection",
+    "code": 14792
+  },
+  {
+    "name": "Yingyong Kexue Xuebao/Journal of Applied Sciences",
+    "code": 15681
+  },
+  {
+    "name": "International Journal of Software Engineering and its Applications",
+    "code": 15688
+  },
+  {
+    "name": "Journal of Emerging Technologies in Accounting",
+    "code": 17738
+  },
+  {
+    "name": "Information Sciences and Technology",
+    "code": 18126
+  },
+  {
+    "name": "Proceedings of the IEEE Network Operations and Management Symposium",
+    "code": 26846
+  },
+  {
+    "name": "IEEE Intelligent Vehicles Symposium Proceedings",
+    "code": 29747
+  },
+  {
+    "name": "European Conference on Mobile Robotics",
+    "code": 29911
+  },
+  {
+    "name": "Australasian Telecommunication Networks and Applications Conference (ATNAC)",
+    "code": 30628
+  },
+  {
+    "name": "International Workshop on Communication Technologies for Vehicles",
+    "code": 31423
+  },
+  {
+    "name": "International ISC Conference on Information Security and Cryptology",
+    "code": 33087
+  },
+  {
+    "name": "Proceedings of the ACM SIGKDD Workshop on Visual Analytics and Knowledge Discovery",
+    "code": 34483
+  },
+  {
+    "name": "IEEE EUROCON",
+    "code": 34520
+  },
+  {
+    "name": "International Conference on Digital Telecommunications",
+    "code": 36935
+  },
+  {
+    "name": "International Conference On. Intelligent Systems Design and Applications",
+    "code": 38131
+  },
+  {
+    "name": "IEEE Journal on Exploratory Solid-State Computational Devices and Circuits",
+    "code": 37553
+  },
+  {
+    "name": "International Workshop on Computational Intelligence for Multimedia Understanding",
+    "code": 41539
+  },
+  {
+    "name": "IPSJ Transactions on Bioinformatics",
+    "code": 41580
+  },
+  {
+    "name": "International Conference on Image Processing Theory Tools and Applications",
+    "code": 44520
+  },
+  {
+    "name": "IEEE Nuclear Science Symposuim &amp; Medical Imaging Conference",
+    "code": 47975
+  },
+  {
+    "name": "IEEE Nuclear Science Symposuim &amp; Medical Imaging Conference",
+    "code": 47975
+  },
+  {
+    "name": "IEEE Signal Processing and Communications Applications Conference",
+    "code": 48970
+  },
+  {
+    "name": "International Conference on Space Science and Communication",
+    "code": 52015
+  },
+  {
+    "name": "IEEE/IFIP International Conference on VLSI and System-on-Chip",
+    "code": 51777
+  },
+  {
+    "name": "International Conference on Methods and Models in Automation and Robotics",
+    "code": 54146
+  },
+  {
+    "name": "Foundations and Trends in Machine Learning",
+    "code": 666
+  },
+  {
+    "name": "Foundations and Trends in Computer Graphics and Vision",
+    "code": 696
+  },
+  {
+    "name": "Proceedings of the Annual IEEE Conference on Computational Complexity",
+    "code": 1169
+  },
+  {
+    "name": "Scientific Annals of Computer Science",
+    "code": 2999
+  },
+  {
+    "name": "Synthesis Lectures on Network Simulation",
+    "code": 3569
+  },
+  {
+    "name": "ACM SIGPLAN Notices",
+    "code": 3879
+  },
+  {
+    "name": "Proceedings of the Symposium on Interactive 3D Graphics",
+    "code": 4682
+  },
+  {
+    "name": "AI Magazine",
+    "code": 4520
+  },
+  {
+    "name": "Research Journal of Information Technology",
+    "code": 5448
+  },
+  {
+    "name": "Proceedings of the Conference on Object-Oriented Programming Systems Languages and Applications OOPSLA",
+    "code": 5592
+  }
+]

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+{% load static from staticfiles %}
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Reviewer Recommendation Tool">
+    <meta name="author" content="Data Systems Lab|University of Tartu">
+    <title>Minaret|Reviewer Recommendation Tool</title>
+    <link rel="icon" href="/minaret/{% static 'images/logo.ico' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="/minaret/{% static 'js/jquery-2.2.4.min.js' %}"></script>
+    <!-- Bootstrap core CSS -->
+    <link href="/minaret/{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+    <script type = "text/javascript" src = "/minaret/{% static 'js/tokenize2.min.js' %}"> </script>
+    <link rel="stylesheet" type="text/css" href="/minaret/{% static 'css/tokenize2.min.css' %}">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="/minaret/{% static 'css/portfolio-item.css' %}">
+    <link rel="stylesheet" type="text/css" href="/minaret/{% static 'fonts/font-awesome-4.7.0/css/font-awesome.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="/minaret/{% static 'fonts/Linearicons-Free-v1.0.0/icon-font.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="/minaret/{% static 'css/contact.css' %}">
+
+
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="#"><img src="/minaret/{% static 'images/banner.png' %}" width = "1000px"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="..">Home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../about/">About</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Contact</a>
+                    <span class="sr-only">(current)</span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+<!-- MAIN CONTENT -->
+<div id="wrap" class="content">
+    <div class="container" style="margin-top:70px;">
+        <div class="page-header" style="margin-bottom:30px">
+            <h2>Our Team
+            </h2>
+        </div>
+
+        <div class="row">
+			<div class="tabs">  
+			  <div class="tab">
+				<input class="tab-radio" type="radio" id="tab-1" name="tab-group-1" checked>
+				<label class="tab-label" for="tab-1">Sherif Sakr</label>
+				<div class="tab-panel">
+				  <div class="tab-content">
+					<img src="https://bigdata.cs.ut.ee/sites/default/files/styles/medium/public/2018-09/SherifSakr.JPG?itok=owMA1oLJ" width="176" height="220" alt="Sherif Sakr" typeof="foaf:Image">
+						<h5><strong>Position:</strong> Professor, Head of Data Systems Group, University of Tartu</h5>
+						<h6><strong>E-mail:</strong> <a href="mailto:sherif.sakr@ut.ee">sherif.sakr@ut.ee</a></h6>
+						<h6><strong>Homepage:</strong><a href="http://math.ut.ee/~sakr/" target="_blank">http://math.ut.ee/~sakr/</a></h6>
+					   <p><strong>Prof. Sherif Sakr</strong> is the Head of Data Systems Group at the Institute of Computer Science, University of Tartu. He received his PhD degree in Computer and Information Science from Konstanz University, Germany in 2007. He received his BSc and MSc degrees in Computer Science from the Information Systems department at the Faculty of Computers and Information in Cairo University, Egypt, in 2000 and 2003 respectively. Prof. Sakr research interest is data and information management in general, particularly in big data processing systems, big data analytics, data science and big data management in cloud computing platforms. Prof. Sakr has published more than 100 refereed research publications in international journals and conferences such as: Proceedings of the VLDB endowment (PVLDB), IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), IEEE Transactions on Service Computing (IEEE TSC), IEEE Transactions on Big Data (IEEE TBD), ACM Computing Survey (ACM CSUR), Journal of Computer, Systems and Science (JCSS), Information Systems, Cluster Computing, Grid Computing, IEEE Communications Surveys and Tutorials (IEEE COMST), IEEE Software, Scientometrics, VLDB, SIGMOD, ICDE, EDBT, WWW, CIKM, ISWC, BPM, ER, ICWS, ICSOC, IEEE SCC, IEEE Cloud, TPCTC, DASFAA, ICPE and JCDL. One of his papers has awarded the Outstanding Paper Excellence Award 2009 of Emerald Literati Network. Prof. Sakr is a constant reviewer for IEEE TKDE, IEEE TSC, IEEE TBD, IEEE TCC, IEEE Software, ACM CSUR, ACM TWEB, ACM TAAS, DKE Elsevier, JSS Elsevier, WWW Springer, Distributed and Parallel Databases Springer and many other international conferences and journals. He is an associate editor of the cluster computing journal and Transactions on Large-Scale Data and Knowledge-Centered Systems (TLDKS). He is also an editorial board member of many reputable international journals. Prof. Sakr is an ACM Senior Member and an IEEE Senior Member. In 2017, he has been appointed to serve as an ACM Distinguished Speaker and as an IEEE Distinguished Speaker. Prof. Sakr is serving as the Editor-in-Chief of the Springer Encyclopedia of Big Data Technologies.</p>
+				  </div>
+				</div> 
+			  </div>
+			  
+			  <div class="tab">
+				<input class="tab-radio" type="radio" id="tab-2" name="tab-group-1">
+				<label class="tab-label" for="tab-2">Ahmed Awad</label>			
+				<div class="tab-panel">
+				  <div class="tab-content">
+					<img src="https://bigdata.cs.ut.ee/sites/default/files/styles/medium/public/2018-09/Ahmed.JPG?itok=QfQzL14A" width="182" height="215" alt="Ahmed " typeof="foaf:Image"/>
+					<h5><strong>Position:</strong> Senior Research Fellow</h5>
+					<h6><strong>E-mail:</strong><a href="mailto:ahmed.awad@ut.ee">ahmed.awad@ut.ee</a></h6>
+					<p><strong>Dr. Ahmed Awad</strong> is a senior research fellow at the Data Systems Group. Ahmed got his PhD from Hasso-Plattner institute, Potsdam University, Germany on 2010. Before that, he got his B.Sc. and M.Sc. degrees from Cairo University on 2000 and 2003 respectively. Ahmed research interests are in big streams processing, complex event processing and applications thereof, especially in business process management. Dr. Awad has more than 40 publications in international journals, conferences and workshops.</p>
+				  </div>
+				</div>
+			  </div>
+			  
+			  <div class="tab">
+				<input class="tab-radio" type="radio" id="tab-3" name="tab-group-1">
+				<label class="tab-label" for="tab-3">Mohamed Ragab</label>
+				<div class="tab-panel">
+				  <div class="tab-content">
+					<img src="https://bigdata.cs.ut.ee//sites/default/files/styles/medium/public/2018-09/Ragab.JPG?itok=s2SzP3pO" width="182" height="169" alt="Ragab" typeof="foaf:Image"/>
+					<h5><strong>Position:</strong> PhD Student</h5>
+					<h6><strong>E-mail: </strong><a href="mailto:mohamed.ragab@ut.ee">mohamed.ragab@ut.ee</a></h6>
+					<p><strong>Mohamed Ragab </strong>is a PhD student in the Data Systems Group. He received the B.Sc. degree in Information Systems from the faculty of Computers and Information, Fayoum University, Fayoum, Egypt, in 2013 and the M.Sc. degree in Information Systems from the faculty of Computers and Information, Cairo University, Cairo, Egypt, in 2018. He is currently pursuing the Ph.D. degree in Computer Science with the Faculty of Science and Technology, University of Tartu,  Estonia. His current research interests include Semantic Web, Big Data, Large graph processing and Linked Data Integration.</p>
+				  </div>
+				</div>
+			  </div>
+			  
+			  <div class="tab">
+				<input class="tab-radio" type="radio" id="tab-4" name="tab-group-1">
+				<label class="tab-label" for="tab-4">Mohamed Maher</label>
+				
+				<div class="tab-panel">
+				  <div class="tab-content">
+					<img src="https://bigdata.cs.ut.ee//sites/default/files/styles/medium/public/2018-09/Maher.JPG?itok=4w9paXdP" width="182" height="208" alt="Maher" typeof="foaf:Image"/>
+					<h5><strong>Position: </strong> MSc Student</h5>
+					<h6><strong>E-mail:</strong> <a href="mailto:mohamed.abdelrahman@ut.ee">mohamed.abdelrahman@ut.ee</a></h6>
+					<p><strong>Mohamed Maher</strong> is an MSc student at university of Tartu and a member of the Data Systems group. He was among the top achievers of the first batch of students who received their Bachelor degree from Zewail City of Science and technology, in Communications and Information engineering in 2018. Mohamed's work and research experience is related to data science, natural language processing and machine learning fields which he is fascinated about. In addition, he has a great interest in developing his problem solving skills through participation in programming competitions.</p>
+				  </div>
+				</div>
+			  </div>
+			  			   
+			</div>
+        </div>
+    </div>
+</div>
+<!-- MAIN CONTENT -->
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <center>
+            <div class="contact100-form-social flex-c-m">
+                <a href="#" class="contact100-form-social-item flex-c-m bg1 m-r-5">
+                    <i class="fa fa-facebook-f" aria-hidden="true"></i>
+                </a>
+
+                <a href="#" class="contact100-form-social-item flex-c-m bg2 m-r-5">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a>
+
+                <a href="#" class="contact100-form-social-item flex-c-m bg3">
+                    <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                </a>
+            </div>
+	<p class="m-0 text-center text-white">Copyright &copy; Data Systems Lab - University of Tartu</p>        
+	</center>
+        
+    </div>
+    <!-- /.container -->
+</footer>
+<!-- Footer -->
+<script type="text/javascript" src="/minaret/{% static 'js/jquery.min.js' %}"></script>
+<script type="text/javascript" src="/minaret/{% static 'js/bootstrap.min.js' %}"></script>
+<script type="text/javascript" src="/minaret/{% static 'js/boot-business.js' %}"></script>
+</body>
+</html>

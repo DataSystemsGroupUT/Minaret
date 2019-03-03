@@ -1,0 +1,7 @@
+Django==1.11.16
+lxml==4.2.5
+requests==2.20.0
+selenium==3.14.1
+pandas==0.23.4
+beautifulsoup4==4.6.3
+scholarly==0.2.3
