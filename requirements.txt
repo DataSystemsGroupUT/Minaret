@@ -1,4 +1,4 @@
-Django==1.11.21
+Django==2.2.24
 lxml==4.2.5
 requests==2.20.0
 selenium==3.14.1
